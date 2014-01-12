@@ -22,6 +22,7 @@ $linkUrl = $rkAPI->connectRunkeeperButtonUrl();
 echo $linkUrl;
 
 echo "<pre>";
+echo "<b>Bla</b>";
 
 /* After connecting to Runkeeper and allowing your app, user is redirected to redirect_uri param (as specified in YAML config file) with $_GET parameter "code" */
 if ($_GET['code']) {
