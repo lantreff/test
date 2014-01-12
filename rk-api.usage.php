@@ -79,15 +79,15 @@ $fields = array(
     "duration" => (30*60),
     "has_path" => false
   ),
-#  array(
-#    "type" => "Swimming",
-#    "equipment" => "None",
-#    "start_time" => "Tue, 3 Dec 2013 18:30:00",
-#    "notes" => "",
-#    "total_distance" => 1500,
-#    "duration" => (30*60),
-#    "has_path" => false
-#  ),
+  array(
+    "type" => "Swimming",
+    "equipment" => "None",
+    "start_time" => "Tue, 3 Dec 2013 18:30:00",
+    "notes" => "",
+    "total_distance" => 1500,
+    "duration" => (30*60),
+    "has_path" => false
+  ),
 #  array(
 #    "type" => "Swimming",
 #    "equipment" => "None",
