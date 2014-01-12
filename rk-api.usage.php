@@ -23,6 +23,7 @@ echo $linkUrl;
 
 echo "<pre>";
 echo "<b>Bla</b>";
+echo "Merge";
 
 /* After connecting to Runkeeper and allowing your app, user is redirected to redirect_uri param (as specified in YAML config file) with $_GET parameter "code" */
 if ($_GET['code']) {
@@ -145,5 +146,4 @@ $fields = array(
 }
 echo "</pre>";
 echo "<BR> Hallo :-)";
-echo "Echt jetzt?";
 ?>
