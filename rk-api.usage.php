@@ -143,4 +143,5 @@ $fields = array(
 	}
 }
 echo "</pre>";
+echo "<BR> Hallo :-)";
 ?>
