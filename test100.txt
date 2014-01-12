@@ -1,3 +1,11 @@
 BLA
 
+<<<<<<< HEAD
 Bla Bla Bla Bla Bla
+=======
+Hallop 
+
+as
+asa
+s
+>>>>>>> nochmal neu erstellt
